@@ -78,7 +78,8 @@ conda install -c conda-forge pysr
 After conda or pip installation, in the same environment 
 
 ```bash
-install matplotlib.
+conda install matplotlib
+pip install skillmetrics
 ```
 Then, in the terminal:
 ```bash

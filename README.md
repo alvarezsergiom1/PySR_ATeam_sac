@@ -13,14 +13,6 @@ UAV temperature correction using meteorological and ground measurements data
 If you find PySR useful, please cite the original paper [arXiv:2305.01582](https://arxiv.org/abs/2305.01582).
 
 
-**Contents**:
-
-- [Why PySR?](#why-pysr)
-- [Installation](#installation)
-- [Quickstart](#quickstart)
-- [→ Documentation](https://ai.damtp.cam.ac.uk/pysr)
-- [Contributors](#contributors-)
-
 ## Installation notes
 
 It is better to create a new environment e.g. in anaconda terminal:

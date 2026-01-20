@@ -51,11 +51,14 @@ After conda or pip installation, in the same environment
 ```bash
 conda install matplotlib
 pip install skillmetrics
+conda install jinja2
 ```
 Then, in the terminal:
 ```bash
 python -c "import pysr"
 ```
+
+
 this will complete additional libraries installation (in Julia language)
 
 
